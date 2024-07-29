@@ -23,5 +23,4 @@ public class assignCookies {
     }
     return i;
   }
-
 }
