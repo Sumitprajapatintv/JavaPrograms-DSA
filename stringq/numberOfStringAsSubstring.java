@@ -17,11 +17,7 @@ public class numberOfStringAsSubstring {
           count++;
         }
       }
-      
-
-
-
-      return count;
+return count;
   }
   
 }
