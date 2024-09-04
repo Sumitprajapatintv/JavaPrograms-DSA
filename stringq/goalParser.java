@@ -12,7 +12,7 @@ public class goalParser {
     for(int i=0;i<command.length();i++)
     {
       char currentChar=command.charAt(i);
-        if(currentChar=='G')
+        if(currentChar=='G')  
         {
           interpreted.append(currentChar);
         }
