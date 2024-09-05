@@ -12,5 +12,4 @@ public class cheackTwoStringEqual {
       String st2=String.join("", word2);
       return st1.equals(st2);
   }
-  
 }
